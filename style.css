@@ -41,3 +41,13 @@ section {
   color: white;
   font-weight: 700;
 }
+
+.dimgrey-text{
+  color: dimgrey;
+}
+
+.dream-area{
+  background-image: url(Images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
