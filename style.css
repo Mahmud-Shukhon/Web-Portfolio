@@ -51,3 +51,9 @@ section {
   background-repeat: no-repeat;
   background-position: right;
 }
+
+.link-button:hover{
+  background: linear-gradient(#fd834f, rgb(255, 57, 22));
+  padding: 12px 42px;
+  border-radius: 7px;
+}
